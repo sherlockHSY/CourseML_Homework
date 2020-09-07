@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+ex1-Linear Regression/ex1.ipynb
+ex2-Logistic Regression/ex2.ipynb
+ex3-Multi-class Classification and Neural Networks/ex3.ipynb
+ex4-Neural Networks Learning/ex4.ipynb
+ex5-Regularized Linear Regression and Bias v.s. Variance/ex5.ipynb
+ex6-Support Vector Machines/ex6.ipynb
+ex7-K-means Clustering and Principal Component/ex7.ipynb
+ex8-Anomaly Detection and Recommender Systems/ex8.ipynb
+other_codes/
+other_codes.zip
